@@ -6,7 +6,7 @@ tags: [nix, agda, daily]
 date: 2019-12-20
 ---
 
-Ispired by [Isaac's post](blog.ielliott.io/agda-nixos/).
+Ispired by [Isaac's post](https://blog.ielliott.io/agda-nixos/).
 
 Package `AgdaStdlib` from nixpkg doesn't contain a
 [`standard-library.agda-lib`](https://github.com/agda/agda-stdlib/blob/master/standard-library.agda-lib)
