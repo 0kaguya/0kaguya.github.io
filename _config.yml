@@ -11,7 +11,7 @@ github_username:  0kaguya
 
 markdown: kramdown
 theme: minima
-plugins:
+plugins_dir:
   - jekyll-feed
 
 permalink: none
