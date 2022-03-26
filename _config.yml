@@ -15,3 +15,6 @@ plugins_dir:
   - jekyll-feed
 
 permalink: none
+
+karmdown:
+  parse_block_html: true
