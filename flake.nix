@@ -11,6 +11,10 @@
   in {
     devShell = with pkgs; mkShell {
       buildInputs = [ ruby ];
+      shellHook = ''
+        alias emacs="ps -c emacs"
+        alias jekyll="bundle exec jekyll"
+      '';
     };
   });
 }
